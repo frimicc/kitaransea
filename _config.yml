@@ -1,25 +1,32 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
+plugins:
+    - jekyll-paginate
+    - jekyll-seo-tag
+    - jekyll-feed
+
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Kitaran Sea Campaign
+tagline:          'A Psionics campaign for D&D 3e'
+description:      'A Psionics campaign for D&D 3e'
+url:              https://www.frimicc.com/kitaransea
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Friedman'
+  url:            https://www.frimicc.com/
+  email:          'michael@frimicc.com'
+  twitter:        frimicc
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/frimicc/kitaransea
