@@ -1,0 +1,90 @@
+<HEAD>
+<H1>Help on Making Queries</H1>
+<H2><IMG SRC = /images/ball.red.gif ALT="*"> 
+Making Queries for Keyword Searches
+</H2>
+Just type in the word you're searching for. If you want to search for more than
+one word, then you have to decide whether you're looking for documents that 
+have <STRONG>all</STRONG> of those words (AND mode), or documents that have 
+<STRONG>any</STRONG> of those words (OR mode).
+<P>
+The default mode is AND. Just type in the words separated by spaces.
+<P>
+To search in OR mode, separate the words you're looking for with " or ". For 
+example, to look for documents about any of your favorite fruits, type 
+<P>
+<CODE>mango or banana or Dole</CODE> 
+<P>
+into the box.
+<P>
+You can't combine AND and OR modes. If you're trying to search for a 
+multiword phrase, then you need to do a concept-based search instead.
+<H2><IMG SRC = /images/ball.red.gif ALT="*">
+Making Queries for Concept-Based Searches
+</H2>
+Excite for Web Servers gives web users access to a sophisticated concept-based
+searching engine. But even though the search engine is advanced, users
+can form queries without using a complicated query language. This page
+will help you to choose the queries that will give you the best
+results.
+<P>
+<A NAME="Query Basics"></A><H3>Query Basics</H3>
+A query is simply a description of an information need. Unlike Boolean systems
+that search for just those documents containing <I>all</I> the words in your
+query, Excite for Web Servers will search for documents that are a best match
+for the words in your query. Excite for Web Servers will also search for
+documents that are about the same concepts that your query describes, so
+sometimes Excite for Web Servers will bring back articles that don't mention
+<I>any</I> of the words in your original query.
+<P>
+What this means is that your query -- the description of your information need
+-- can be as detailed as you like. Don't worry about providing too many words;
+the more words, the better. Additional words in your query will help Excite for
+Web Servers figure out what concepts you're really interested in. On the other
+hand, Excite for Web Servers will do a pretty good job of figuring out what
+documents are interesting to you even if your query is vague.
+<P>
+For example, let's say you're searching a web site for documents about
+customer support for the Widget2000 product you're using. A good
+starting point would be
+<P>
+<PRE>
+customer support for the Widget2000
+</PRE>
+If you have a question about a particular feature of the Widget2000,
+for example the Blurfl upgrade package, you might choose a query like
+<P>
+<PRE>
+customer support for the Blurfl upgrade package
+of the Widget2000
+</PRE>
+Even if there are no documents that are actually about the Blurfl
+upgrade, Excite for Web Servers will still show you documents about Widget2000
+customer support.
+<P>
+<A NAME="Advanced Query Tips"></A><H3>Advanced Query Tips</H3>
+Here are some suggestions for getting the best results out of
+Excite for Web Servers.
+<P>
+<DL>
+<DT><B>Only use words that are relevant to your query</B><DD>
+If you're looking for documents about the Widget2000, don't enter a
+query like "<CODE>Find me all documents about the Widget2000</CODE>". Excite for Web Servers
+considers <I>all</I> the words in your query to be part of your
+information need, so queries like the previous example will find all
+documents about <I>finding all documents about</I> the Widget2000, which
+may not be exactly what you want.
+<P>
+<DT><B>Specify multiple forms of the same phrases</B><DD>
+Excite for Web Servers distinguishes between hyphenated and un-hyphenated words. So,
+sometimes it might be necessary to explicitly say that you want both
+versions, for example "<CODE>CDROM CD-ROM</CODE>". Excite for Web Servers will try to figure
+out that <CODE>CDROM</CODE> and <CODE>CD-ROM</CODE> are the same, but it never hurts to
+explicitly specify multiple forms.
+<P>
+<DT><B>Common words are ignored</B><DD>
+Excite for Web Servers doesn't index common words like <I>a</I>, <I>and</I>, or <I>the</I>.
+Consequently, those words in your query will be ignored. Excite for Web Servers also
+ignores numbers; however, it can find strings that happen to contain a
+number, for example <I>3Com</I>.
+<P>

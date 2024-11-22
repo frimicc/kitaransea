@@ -1,0 +1,219 @@
+<H1 ALIGN="center">Zachery</H1>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="28%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="90%">
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Strength</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">9</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Dexterity</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">9</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Constitution</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">12 (13)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Intelligence</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">17</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Wisdom</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">18 (19)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Charisma</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">16</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="72%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Race</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Human</FONT></TD>
+<TD WIDTH="54%" VALIGN="TOP" ROWSPAN="6"><FONT SIZE="2">A foppish Ketite. Once of a noble family, he has lost it all and is now an adventurer.</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Class</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Psionicist</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Alignment</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Lawful Neutral</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Gender</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Male</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Experience</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">213,000</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Level</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">9</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<CAPTION>
+<H3>Combat</H3>
+</CAPTION>
+<TR>
+<TD WIDTH="65%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2"><B>Weapon</B></FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>THAC0</B></FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>Speed</B></FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2"><B>Damage</B></FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Short Sword +3</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">13</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">0</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d6+3/1d8+3</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Hand Crossbow +2</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">14</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">3</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d3+2/1d2+2</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="35%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>Armor Class</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">-6</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Surprised AC</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">-5</FONT>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>THAC0</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">16</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Hit Points</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">37</FONT>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Proficiencies</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Abilities</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Hand Crossbow<BR>
+Short Sword<BR>
+Martial Arts<BR>
+<BR>
+Speak Ketish<BR>
+Speak Beogarish<BR>
+Read &amp; Write Ketish<BR>
+Read &amp; Write Beogarish<BR>
+Rejuvination<BR>
+Meditative Focus<BR>
+Heraldry<BR>
+Singing<BR>
+Crystal Focus<BR>
+Power Manipulation (for Telepathy)<BR>
++1 unused slot</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Primary Discipline</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Telepathy</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Disciplines</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Telepathy, <BR>
+Metapsionics (-1), Clairsentience (-2)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>PSPs</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">155 (+ 155 in Receptacle)</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Equipment</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Notes</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Crystal Focus: attuned to Mindlink<BR>
+Receptacle: 2 - 5,000 gp gems<BR>
+Hand crossbow +2 &amp; 20 quarrels<BR>
+Short Sword +3<BR>
+Cloak of Protection +2<BR>
+Ring of Protection +2<BR>
+Shield +1<BR>
+358 gp<BR>
+Fine clothes (blue leather)<BR>
+Suit of Red Dragon scale armor (AC -5)<BR>
+2 ancient coins, 2 future coins (gps)<BR>
+light blue gem, worth 100gp<BR>
+dark blue gem, worth 3,000gp (receptacle)</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Jennifer's Player Character.<BR>
+<BR>
+Father: Lucius Metellus Dasus<BR>
+<BR>
+Mount: Dhakgababdorblad (Red Dragon with mouse's mind)<BR>
+<BR>
+Zachery is infatuated with Faustus, who has left. Zachery takes a letter to Faustus
+to the local Church of Tyr every Godsday.</FONT></TD>
+</TR>
+</TABLE>

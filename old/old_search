@@ -1,0 +1,24 @@
+<H2>Search the Kitaran Sea Campaign</H2>
+<P>
+Enter one or more keywords or describe the concept you wish to find:
+</P>
+<FORM ACTION="/cgi-bin/AT-search.cgi" METHOD="POST">
+<TABLE>
+<TR>
+<TD><INPUT TYPE="radio" NAME="mode" VALUE="concept" CHECKED> Concept Search</TD>
+<TD><INPUT TYPE="radio" NAME="mode" VALUE="simple"> Keyword Search</TD>
+<TD><INPUT TYPE="submit" NAME="SearchButton" VALUE="Search"></TD>
+</TR>
+<TR>
+<TD COLSPAN="3"><TEXTAREA NAME="search" COLS=40 ROWS=2></TEXTAREA></TD>
+</TR>
+</TABLE>
+<INPUT TYPE="hidden" NAME="sp" VALUE="sp">
+<INPUT TYPE="hidden" NAME="config" VALUE="/afs/ir.stanford.edu/users/f/r/frimicc/WWW/DnD/.collection/DnDquery.conf">
+</FORM>
+<P> 
+<A HREF="search_help.html">Help on searching</A> is available.
+</P>
+<P>
+If you can't find what you are looking for, try the <A HREF="index_page.html">Site Map</A>.
+</P>

@@ -1,0 +1,520 @@
+<H2>Search the Kitaran Sea Campaign</H2>
+<!-- Atomz Advanced Search HTML for Kitaran Sea Campaign -->
+<FORM METHOD="get" ACTION="http://search.atomz.com/search/">
+<TABLE CELLSPACING="0" CELLPADDING="1" BORDER="0">
+<TR>
+<TD COLSPAN="4">
+<P>
+<B>Search For:</B>
+<BR>
+<INPUT SIZE="35" NAME="sp-q"> 
+<!-- The "Search" button -->
+<INPUT TYPE="submit" VALUE="Search"> <INPUT TYPE="hidden" NAME="sp-a" VALUE="sp1000b5db"> 
+</P>
+</TD>
+</TR>
+<!-- Collections -->
+<TR>
+<TD>
+<P>
+<B>In:&nbsp;</B> 
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<SELECT NAME="sp-k"> 
+<OPTION VALUE="">
+All of Kitaran Sea Campaign
+</OPTION>
+<OPTION VALUE="Story">
+Story
+</OPTION>
+<OPTION VALUE="Characters">
+Characters
+</OPTION>
+<OPTION VALUE="Deities">
+Deities
+</OPTION>
+<OPTION VALUE="Guidebook">
+Guidebook
+</OPTION>
+</SELECT>
+</P>
+</TD>
+</TR>
+<INPUT TYPE="hidden" NAME="sp-advanced" VALUE="1"> 
+<!-- Allow "any," "all," or "phrase" -->
+<TR>
+<TD VALIGN="top">
+<P>
+<B>Match:&nbsp;</B> 
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<INPUT TYPE="radio" NAME="sp-p" VALUE="any" CHECKED>Any&nbsp;word <INPUT TYPE="radio" NAME="sp-p" VALUE="all">All&nbsp;words <INPUT TYPE="radio" NAME="sp-p" VALUE="phrase">Exact&nbsp;phrase
+<BR>
+<!-- Checkbox enables sound-alike matching -->
+<INPUT TYPE="hidden" NAME="sp-w-control" VALUE="1"> <INPUT TYPE="checkbox" NAME="sp-w" VALUE="alike" CHECKED> Sound-alike&nbsp;matching 
+</P>
+</TD>
+</TR>
+<!-- Date range criteria -->
+<TR>
+<TD>
+<P>
+<B>Dated:</B>
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<INPUT TYPE="radio" NAME="sp-d" VALUE="custom" CHECKED> <SELECT NAME="sp-date-range" SIZE="1"> 
+<OPTION VALUE="-1" SELECTED>
+Anytime
+</OPTION>
+<OPTION VALUE="7">
+Within&nbsp;the&nbsp;last&nbsp;week 
+</OPTION>
+<OPTION VALUE="14">
+Within&nbsp;the&nbsp;last&nbsp;2&nbsp;weeks 
+</OPTION>
+<OPTION VALUE="30">
+Within&nbsp;the&nbsp;last&nbsp;30&nbsp;days 
+</OPTION>
+<OPTION VALUE="60">
+Within&nbsp;the&nbsp;last&nbsp;60&nbsp;days 
+</OPTION>
+<OPTION VALUE="90">
+Within&nbsp;the&nbsp;last&nbsp;90&nbsp;days 
+</OPTION>
+<OPTION VALUE="180">
+Within&nbsp;the&nbsp;last&nbsp;180&nbsp;days 
+</OPTION>
+<OPTION VALUE="365">
+Within&nbsp;the&nbsp;last&nbsp;year 
+</OPTION>
+<OPTION VALUE="730">
+Within&nbsp;the&nbsp;last&nbsp;two&nbsp;years 
+</OPTION>
+</SELECT> 
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>
+&nbsp;
+</P>
+</TD>
+<TD ROWSPAN="2">
+<P>
+<INPUT TYPE="radio" NAME="sp-d" VALUE="specific">
+</P>
+</TD>
+<TD ALIGN="right">
+<P>
+From:
+</P>
+</TD>
+<TD>
+<P>
+<SELECT NAME="sp-start-month" SIZE="1"> 
+<OPTION VALUE="0" SELECTED>
+</OPTION>
+<OPTION VALUE="1">
+January
+</OPTION>
+<OPTION VALUE="2">
+February
+</OPTION>
+<OPTION VALUE="3">
+March
+</OPTION>
+<OPTION VALUE="4">
+April
+</OPTION>
+<OPTION VALUE="5">
+May
+</OPTION>
+<OPTION VALUE="6">
+June
+</OPTION>
+<OPTION VALUE="7">
+July
+</OPTION>
+<OPTION VALUE="8">
+August
+</OPTION>
+<OPTION VALUE="9">
+September
+</OPTION>
+<OPTION VALUE="10">
+October
+</OPTION>
+<OPTION VALUE="11">
+November
+</OPTION>
+<OPTION VALUE="12">
+December
+</OPTION>
+</SELECT> <SELECT NAME="sp-start-day" SIZE="1"> 
+<OPTION VALUE="0" SELECTED>
+</OPTION>
+<OPTION VALUE="1">
+1
+</OPTION>
+<OPTION VALUE="2">
+2
+</OPTION>
+<OPTION VALUE="3">
+3
+</OPTION>
+<OPTION VALUE="4">
+4
+</OPTION>
+<OPTION VALUE="5">
+5
+</OPTION>
+<OPTION VALUE="6">
+6
+</OPTION>
+<OPTION VALUE="7">
+7
+</OPTION>
+<OPTION VALUE="8">
+8
+</OPTION>
+<OPTION VALUE="9">
+9
+</OPTION>
+<OPTION VALUE="10">
+10
+</OPTION>
+<OPTION VALUE="11">
+11
+</OPTION>
+<OPTION VALUE="12">
+12
+</OPTION>
+<OPTION VALUE="13">
+13
+</OPTION>
+<OPTION VALUE="14">
+14
+</OPTION>
+<OPTION VALUE="15">
+15
+</OPTION>
+<OPTION VALUE="16">
+16
+</OPTION>
+<OPTION VALUE="17">
+17
+</OPTION>
+<OPTION VALUE="18">
+18
+</OPTION>
+<OPTION VALUE="19">
+19
+</OPTION>
+<OPTION VALUE="20">
+20
+</OPTION>
+<OPTION VALUE="21">
+21
+</OPTION>
+<OPTION VALUE="22">
+22
+</OPTION>
+<OPTION VALUE="23">
+23
+</OPTION>
+<OPTION VALUE="24">
+24
+</OPTION>
+<OPTION VALUE="25">
+25
+</OPTION>
+<OPTION VALUE="26">
+26
+</OPTION>
+<OPTION VALUE="27">
+27
+</OPTION>
+<OPTION VALUE="28">
+28
+</OPTION>
+<OPTION VALUE="29">
+29
+</OPTION>
+<OPTION VALUE="30">
+30
+</OPTION>
+<OPTION VALUE="31">
+31
+</OPTION>
+</SELECT> 
+<!--comma-->
+, <INPUT SIZE="4" NAME="sp-start-year"> 
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>
+&nbsp;
+</P>
+</TD>
+<TD ALIGN="right">
+<P>
+To:
+</P>
+</TD>
+<TD>
+<P>
+<SELECT NAME="sp-end-month" SIZE="1"> 
+<OPTION VALUE="0" SELECTED>
+</OPTION>
+<OPTION VALUE="1">
+January
+</OPTION>
+<OPTION VALUE="2">
+February
+</OPTION>
+<OPTION VALUE="3">
+March
+</OPTION>
+<OPTION VALUE="4">
+April
+</OPTION>
+<OPTION VALUE="5">
+May
+</OPTION>
+<OPTION VALUE="6">
+June
+</OPTION>
+<OPTION VALUE="7">
+July
+</OPTION>
+<OPTION VALUE="8">
+August
+</OPTION>
+<OPTION VALUE="9">
+September
+</OPTION>
+<OPTION VALUE="10">
+October
+</OPTION>
+<OPTION VALUE="11">
+November
+</OPTION>
+<OPTION VALUE="12">
+December
+</OPTION>
+</SELECT> <SELECT NAME="sp-end-day" SIZE="1"> 
+<OPTION VALUE="0" SELECTED>
+</OPTION>
+<OPTION VALUE="1">
+1
+</OPTION>
+<OPTION VALUE="2">
+2
+</OPTION>
+<OPTION VALUE="3">
+3
+</OPTION>
+<OPTION VALUE="4">
+4
+</OPTION>
+<OPTION VALUE="5">
+5
+</OPTION>
+<OPTION VALUE="6">
+6
+</OPTION>
+<OPTION VALUE="7">
+7
+</OPTION>
+<OPTION VALUE="8">
+8
+</OPTION>
+<OPTION VALUE="9">
+9
+</OPTION>
+<OPTION VALUE="10">
+10
+</OPTION>
+<OPTION VALUE="11">
+11
+</OPTION>
+<OPTION VALUE="12">
+12
+</OPTION>
+<OPTION VALUE="13">
+13
+</OPTION>
+<OPTION VALUE="14">
+14
+</OPTION>
+<OPTION VALUE="15">
+15
+</OPTION>
+<OPTION VALUE="16">
+16
+</OPTION>
+<OPTION VALUE="17">
+17
+</OPTION>
+<OPTION VALUE="18">
+18
+</OPTION>
+<OPTION VALUE="19">
+19
+</OPTION>
+<OPTION VALUE="20">
+20
+</OPTION>
+<OPTION VALUE="21">
+21
+</OPTION>
+<OPTION VALUE="22">
+22
+</OPTION>
+<OPTION VALUE="23">
+23
+</OPTION>
+<OPTION VALUE="24">
+24
+</OPTION>
+<OPTION VALUE="25">
+25
+</OPTION>
+<OPTION VALUE="26">
+26
+</OPTION>
+<OPTION VALUE="27">
+27
+</OPTION>
+<OPTION VALUE="28">
+28
+</OPTION>
+<OPTION VALUE="29">
+29
+</OPTION>
+<OPTION VALUE="30">
+30
+</OPTION>
+<OPTION VALUE="31">
+31
+</OPTION>
+</SELECT> 
+<!--comma-->
+, <INPUT SIZE="4" NAME="sp-end-year"> 
+</P>
+</TD>
+</TR>
+<!-- List box selects the search field -->
+<TR>
+<TD VALIGN="top">
+<P>
+<B>Within:&nbsp;</B> 
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<SELECT NAME="sp-x" SIZE="1"> 
+<OPTION VALUE="any" SELECTED>
+Anywhere
+</OPTION>
+<OPTION VALUE="title">
+Title
+</OPTION>
+<OPTION VALUE="desc">
+Description
+</OPTION>
+<OPTION VALUE="keys">
+Keywords
+</OPTION>
+<OPTION VALUE="body">
+Body
+</OPTION>
+<OPTION VALUE="alt">
+Alternate text
+</OPTION>
+<OPTION VALUE="url">
+URL
+</OPTION>
+<OPTION VALUE="target">
+Target
+</OPTION>
+</SELECT> 
+</P>
+</TD>
+</TR>
+<!-- List box selects number of results to show per page -->
+<TR>
+<TD VALIGN="top">
+<P>
+<B>Show:&nbsp;</B> 
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<SELECT NAME="sp-c" SIZE="1"> 
+<OPTION VALUE="5">
+5
+</OPTION>
+<OPTION VALUE="10" SELECTED>
+10
+</OPTION>
+<OPTION VALUE="25">
+25
+</OPTION>
+<OPTION VALUE="50">
+50
+</OPTION>
+<OPTION VALUE="100">
+100
+</OPTION>
+</SELECT>&nbsp;results&nbsp; 
+<!-- Show or hide summaries in search results -->
+<SELECT NAME="sp-m" SIZE="1"> 
+<OPTION VALUE="1" SELECTED>
+with
+</OPTION>
+<OPTION VALUE="0">
+without
+</OPTION>
+</SELECT>&nbsp;summaries
+<BR>
+</P>
+</TD>
+</TR>
+<!-- Sort results by score or by date -->
+<TR>
+<TD VALIGN="top">
+<P>
+<B>Sort&nbsp;by:&nbsp;</B> 
+</P>
+</TD>
+<TD COLSPAN="4">
+<P>
+<SELECT NAME="sp-s" SIZE="1"> 
+<OPTION VALUE="0" SELECTED>
+score
+</OPTION>
+<OPTION VALUE="1">
+date
+</OPTION>
+</SELECT> 
+</P>
+</TD>
+</TR>
+</TABLE>
+</FORM>
+<P> 
+<A HREF="search_help.html">Help on searching</A> is available.
+</P>
+<P>
+If you can't find what you are looking for, try the <A HREF="index_page.html">Site Map</A>.
+</P>

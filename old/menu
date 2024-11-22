@@ -1,0 +1,60 @@
+<!-- ====================================================================== -->
+<!-- Michael Friedman -->
+<!-- All contents copyright (C) 1999, all rights reserved. -->
+<!-- Permission given to copy this file for personal use. -->
+<!-- Please do not post copies of this file without permission of the author! -->
+<!-- contact: mfriedman@stanford.edu -->
+<!-- ================================================================
+--> 
+<HEAD>
+<TITLE>Navigation Menu</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="generator" CONTENT="BBEdit 5.0">
+<META NAME="description" CONTENT="Sidebar menu frame for Kitaran Sea Site">
+<META NAME="keywords" CONTENT="Dungeons and Dragons, D&D, dnd, worlds, gaming, RPG,
+psionics, campaign">
+</HEAD>
+<FONT SIZE="-1" FACE="Verdana, Geneva, Arial, sans serif">
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="120" HEIGHT="1" VSPACE="14"><BR>
+<A HREF="main.html" TARGET="Content"><B>Home</B></A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="12"><BR>
+<A HREF="new.html" TARGET="Content">What's New?</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="story/index.html" TARGET="Content">Story</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="characters/index.html" TARGET="Content">Characters</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="characters/npcs.html" TARGET="Content">Non-Player Characters</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="maps/index.html" TARGET="Content">Maps</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="guide/index.html" TARGET="Content">Guidebook</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="history.html" TARGET="Content">History</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="calendar/index.html" TARGET="Content">Calendar</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="gods/index.html" TARGET="Content">Deities</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="dm/index.html" TARGET="Content">DM Info</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="12"><BR>
+<A HREF="search.html" TARGET="Content">Advanced Search</A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="2"><BR>
+<A HREF="index_page.html" TARGET="Content"><B>Index</B></A><BR>
+<IMG SRC="graphics/pixel.gif" ALT="" WIDTH="1" HEIGHT="1" VSPACE="3"><BR>
+<A HREF="about.html" TARGET="Content">About this site</A><BR>
+</FONT>
+<!-- Atomz Search HTML for Kitaran Sea Campaign -->
+<form method="get" action="http://search.atomz.com/search/" TARGET="Content">
+<input size=15 name="sp-q"><br>
+<!-- Collections -->
+<select name="sp-k">
+<option value="">Entire Site</option>
+<option value="Story">Story</option>
+<option value="Characters">Characters</option>
+<option value="Deities">Deities</option>
+<option value="Guidebook">Guidebook</option>
+</select><br>
+<input type=submit value="Search">
+<input type=hidden name="sp-a" value="sp1000b5db">
+</form>

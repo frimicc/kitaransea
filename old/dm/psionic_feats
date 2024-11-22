@@ -1,0 +1,73 @@
+<H1>Psionic Feats</H1>
+<P>A new category of feats is required for campaigns that use psionics - psionic 
+feats.</P>
+<P>These feats all carry the prerequisite of Psionics. A character must have the 
+ability to use psionics to take any of these feats.</P>
+<H2>General</H2>
+<H3>Psychic Defense</H3>
+<P>Some non-psionics can develop a rudimentary psionic defense. They may be born 
+with exceptionally strong Wills, or they may have met a teacher who instructed 
+them in the basics of psionic self-defense.</P>
+<P>Benefit: You can make a Will saving throw to defend against a psionic attack 
+(Contact, or one of the five attack modes (Harbingers)). The DC of the save 
+is equal to the roll the psionicist made to activate the power.</P>
+<H2>Psionic</H2>
+<H3>Crystal Focus</H3>
+<P>You use a crystal to help focus your power in a single Discipline.</P>
+<P><B>Benefit: </B>You can create a crystal (small, effectively free quartz will 
+do) which gives you a +1 on all power checks for a single Discipline. The crystal 
+can be attuned to any Discipline you know, but you can only use one crystal 
+at a time. (You cannot create two crystals for different Disciplines and then 
+switch off. Only one Discipline at a time!) It takes 2 hours of mediation to 
+attune a crystal.</P>
+<H3>Harness Subconscious</H3>
+<P>You can harness the power of your subconscious to give you increased PSPs for 
+a time.</P>
+<P><B>Benefit:</B> If your PSPs are at their maximum, you can spend two days (48 
+consecutive hours)meditating, gathering additional energy. After the 48 hours 
+of meditation, you gain an additional 20% of your total PSPs. This bonus lasts 
+for 72 consecutive hours, after which the additional points are lost. During 
+the 72 hours of heightened strength, you still cannot recover those addtional 
+PSPs -- you can only recover PSPs up to your normal maximum.</P>
+<H3>Power Manipulation</H3>
+<P>You can gain extremely favorable results when using powers in your primary 
+Discipline.</P>
+<P><B>Benefit:</B> When initiating a power, you can choose to spend an extra 5 
+PSPs to automatically gain the result specified for rolling a natural 20 on 
+the power check. For purposes of DCs and saves, you still use the actual number 
+rolled; only the result is changed.</P>
+<H3>Meditative Focus</H3>
+<P>You can meditate to focus your power in a single Discipline.</P>
+<P><B>Benefit:</B> You can meditate for 12 consecutive hours to give yourself 
+a +2 bonus on all power checks for a single Discipline for the next 24 hours 
+or until your PSPs drop to 0. All power checks in other Disciplines have a -1 
+penalty during the heightened period.</P>
+<H3>Rejuvenation</H3>
+<P>You can meditate to regain power as if you were sleeping.</P>
+<P><B>Benefit:</B> You can recover PSPs while meditating at the &quot;sleeping&quot; 
+rate of 12/hour (1/5 minutes). You enter a state of deep concentration, but 
+are still conscious and aware of your surroundings, so you do not suffer penalties 
+on initiative or surprise and are not helpless if attacked.</P>
+<H2>Psionic Item Creation</H2>
+<H3>Empower Item</H3>
+<P>You can create psionic items.</P>
+<P><B>Prerequisite:</B> Psionicist level 10+</P>
+<P><B>Benefit:</B> You can empower any item with psionic powers. Follow the rules 
+given in <CITE>The Complete Psionics Handbook</CITE> and <CITE>The Will and 
+the Way</CITE>, with these changes: </P>
+<OL>
+<LI>Empower checks always succeed.</LI>
+<LI>The item has to have a gp value assigned to it, based on other items in 
+the DMG.</LI>
+<LI>You must pay 1/25th the gp value of the item in XP, just as for magic items, 
+in addition to the PSPs used up daily.</LI>
+<LI>There are no additional material components, except those mentioned in the 
+Empower description.</LI>
+</OL>
+<H3>Create Receptacle</H3>
+<P>You can create a repository of PSPs for yourself.</P>
+<P><B>Benefit:</B> You can store PSPs in a valuable gem or in an Empowered item, 
+as specified in the Receptacle power on page 102 of <CITE>The Complete Psionics 
+Handbook</CITE>. If the receptacle is damaged or destroyed, the stored PSPs 
+are subtracted from your current total, as stated in the description. You can 
+still only store as many PSPs as your maximum.</P>

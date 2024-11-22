@@ -1,0 +1,229 @@
+<H1 ALIGN="center">Faustus</H1>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="28%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="90%">
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Strength</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">18/52</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Dexterity</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">15</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Constitution</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">16</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Intelligence</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">10</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Wisdom</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">15</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Charisma</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">17</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="72%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Race</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Human</FONT></TD>
+<TD WIDTH="54%" VALIGN="TOP" ROWSPAN="6"><FONT SIZE="2">Twenty-one years old, handsome. Blond-haired, blue-eyed, and big, he is a typical Beogaran Paladin.<BR>
+<BR>
+<B>Title:</B> Sir Faustus of Alhwick, Votary of the Order of the Temple of Tyr, &quot;Fist of Tyr&quot;</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Class</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Paladin (Votary)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Alignment</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Lawful Good</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Gender</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Male</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Experience</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">140,000</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Level</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">7</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<CAPTION>
+<H3>Combat</H3>
+</CAPTION>
+<TR>
+<TD WIDTH="65%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2"><B>Weapon</B></FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>THAC0</B></FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>Speed</B></FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2"><B>Damage</B></FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Two-handed Sword +3 (2/1 Spec.)</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">8</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">6</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d10+8/3d6+8</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Lance, Heavy Horse (2/1 Spec.)</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">11</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">7</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d8+5/3d6+4</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="35%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>Armor Class</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">0</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Surprised AC</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">1</FONT>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>THAC0</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">14</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Hit Points</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">65</FONT>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Proficiencies</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Abilities</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Short Blades<BR>
+Two-handed Sword (Specialized)<BR>
+Two-handed weapon style<BR>
+Lance (Specialized) on Heavy Horse<BR>
+2 empty weapon slots<BR>
+<BR>
+Speak Beogarish<BR>
+Read &amp; Write Beogarish<BR>
+Speak Southern Language<BR>
+Religion<BR>
+Riding, Land-based<BR>
+Riding, Airborne (Pegacorn)<BR>
+Meditative Focus			
+</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="40%" VALIGN="TOP"><FONT SIZE="2"><B>Primary Discipline</B></FONT></TD>
+<TD WIDTH="60%"><FONT SIZE="2">Wild Talent</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="40%" VALIGN="TOP"><FONT SIZE="2"><B>Psionic Abilities</B></FONT></TD>
+<TD WIDTH="60%"><FONT SIZE="2">Teleport (10)<BR>
+Contact (15)<BR>
+Mind Link (10)<BR>
+Conceal Thoughts<BR>
+Blink<BR>
+Control Flame (14)
+</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="40%" VALIGN="TOP"><FONT SIZE="2"><B>PSPs</B></FONT></TD>
+<TD WIDTH="60%"><FONT SIZE="2">134</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="40%" VALIGN="TOP"><FONT SIZE="2"><B>Paladin Abilities</B></FONT></TD>
+<TD WIDTH="60%"><FONT SIZE="2">			Detect Evil, 60' radius<BR>
+Immune to Disease<BR>
+Cure Disease, 1x per week<BR>
+Lay on Hands, heals up to 14hp per day<BR>
+Aura of Protection, -1 on all rolls by evil beings<BR>
+Turn Undead, as Level 5 Cleric<BR>
++4 to attack rolls when fighting followers of Bane
+</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Equipment</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Notes</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">
+Hereditary Votary Two-handed Sword +3<BR>
+Blessed Full-Plate Armor<BR>
+Extra-long Lance<BR>
+Holy symbols of Tyr<BR>
+<BR>
+Bucephalus - Pegacorn, bonded mount<BR>
+Geronmen - Paladin 3, follower
+</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">
+Nick's Player Character.<BR>
+<BR>
+Currently living in the South, learning about their culture and religion... and avoiding Costanza and Zachery.
+</FONT></TD>
+</TR>
+</TABLE>

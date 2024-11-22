@@ -1,0 +1,448 @@
+<H1>Psionicist</H1>
+<P>The powers of the mind are strong. Belief can move mountains. The psionicist 
+taps this immense, internal power to change the world.</P>
+<H4>Class Table: The Psionicist</H4>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="1" CELLPADDING="1">
+<TR> 
+<TH>Level</TH>
+<TH>Base <BR>
+Attack Bonus</TH>
+<TH>Fort Save</TH>
+<TH>Ref Save</TH>
+<TH>Will Save</TH>
+<TH>Special</TH>
+<TH>Total Disciplines</TH>
+<TH>Total Sciences</TH>
+<TH>Total Devotions</TH>
+<TH>Defense Modes</TH>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">1</TD>
+<TD>+0</TD>
+<TD>+2</TD>
+<TD>+0</TD>
+<TD>+2</TD>
+<TD>Still Mind</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">1</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">2</TD>
+<TD>+1</TD>
+<TD>+3</TD>
+<TD>+0</TD>
+<TD>+3</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">1</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">3</TD>
+<TD>+2</TD>
+<TD>+3</TD>
+<TD>+1</TD>
+<TD>+3</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">7</TD>
+<TD ALIGN="CENTER">2</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">4</TD>
+<TD>+3</TD>
+<TD>+4</TD>
+<TD>+1</TD>
+<TD>+4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">9</TD>
+<TD ALIGN="CENTER">2</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">5</TD>
+<TD>+3</TD>
+<TD>+4</TD>
+<TD>+1</TD>
+<TD>+4</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">10</TD>
+<TD ALIGN="CENTER">3</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">6</TD>
+<TD>+4</TD>
+<TD>+5</TD>
+<TD>+2</TD>
+<TD>+5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">11</TD>
+<TD ALIGN="CENTER">3</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">7</TD>
+<TD>+5</TD>
+<TD>+5</TD>
+<TD>+2</TD>
+<TD>+5</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">12</TD>
+<TD ALIGN="CENTER">4</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">8</TD>
+<TD>+6/+1</TD>
+<TD>+6</TD>
+<TD>+2</TD>
+<TD>+6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">13</TD>
+<TD ALIGN="CENTER">4</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">9</TD>
+<TD>+6/+1</TD>
+<TD>+6</TD>
+<TD>+3</TD>
+<TD>+6</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">14</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">10</TD>
+<TD>+7/+2</TD>
+<TD>+7</TD>
+<TD>+3</TD>
+<TD>+7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">15</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">11</TD>
+<TD>+8/+3</TD>
+<TD>+7</TD>
+<TD>+3</TD>
+<TD>+7</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">16</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">12</TD>
+<TD>+9/+4</TD>
+<TD>+8</TD>
+<TD>+4</TD>
+<TD>+8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">17</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">13</TD>
+<TD>+9/+4</TD>
+<TD>+8</TD>
+<TD>+4</TD>
+<TD>+8</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">7</TD>
+<TD ALIGN="CENTER">18</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">14</TD>
+<TD>+10/+5</TD>
+<TD>+9</TD>
+<TD>+4</TD>
+<TD>+9</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">7</TD>
+<TD ALIGN="CENTER">19</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">15</TD>
+<TD>+11/+6/+1</TD>
+<TD>+9</TD>
+<TD>+5</TD>
+<TD>+9</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">8</TD>
+<TD ALIGN="CENTER">20</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">16</TD>
+<TD>+12/+7/+2</TD>
+<TD>+10</TD>
+<TD>+5</TD>
+<TD>+10</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">8</TD>
+<TD ALIGN="CENTER">21</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">17</TD>
+<TD>+12/+7/+2</TD>
+<TD>+10</TD>
+<TD>+5</TD>
+<TD>+10</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">9</TD>
+<TD ALIGN="CENTER">22</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">18</TD>
+<TD>+13/+8/+3</TD>
+<TD>+11</TD>
+<TD>+6</TD>
+<TD>+11</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">9</TD>
+<TD ALIGN="CENTER">23</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">19</TD>
+<TD>+14/+9/+4</TD>
+<TD>+11</TD>
+<TD>+6</TD>
+<TD>+11</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">10</TD>
+<TD ALIGN="CENTER">24</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+<TR> 
+<TD ALIGN="RIGHT">20</TD>
+<TD>+15/+10/+5</TD>
+<TD>+12</TD>
+<TD>+6</TD>
+<TD>+12</TD>
+<TD>&nbsp;</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">10</TD>
+<TD ALIGN="CENTER">25</TD>
+<TD ALIGN="CENTER">5</TD>
+</TR>
+</TABLE>
+<H3>Adventures:</H3>
+<P>The best psionicists adventure to gain a better understanding of themselves. 
+The Will may be strong, but the Way is mysterious... Psionicists also adventure 
+for the usual reasons: fame, fortune, advancement, and so on.</P>
+<H3>Characteristics:</H3>
+<P>Psionicists are masters of their own minds. In general, this means that they 
+are decisive and given to introspection. In many worlds, psionicists are misunderstood 
+and may be hunted by locals who discover their true nature. Because of this, 
+psionicists also tend to not give away their profession easily. Since their 
+powers are triggered by mere thought, they can be used even in the midst of 
+a crowd without notice.</P>
+<P>Of course, every Way is different. Individual psionicists may be egoistic, 
+flamboyant, or even dismissive of non-psionicists.</P>
+<H3>Alignment:</H3>
+<P>It requires great discipline to be a psionicist. Controlling their minds and 
+imposing their Will on the world requires a non-chaotic alignment. Neutral psionicists 
+may seem less organized than their lawful counterparts, but they can still rise 
+to the same heights of power.</P>
+<P>Good and evil are both represented in the psionicist's nature. Some psionic 
+powers can cause alignment drift from one to the other. Mindflame, for example, 
+is an evil power and any good psionicist who uses it moves one step towards 
+evil...</P>
+<H3>Religion:</H3>
+<P>Since psionicists control great powers of their own devising, many of them 
+are not particularly religious. Much less than Clerics and Wizards, who command 
+fantastic spells -- which come from outside --, the psionicist is usually the 
+master of his own destiny and often feels that the gods play no part in his 
+life. </P>
+<P>On the other hand, faith is common among the folks surrounding the psionicist 
+and that can be a powerful influence on him. Some psionicists have been known 
+to be among the most faithful worshippers of Bane, Waukeen, or even Tyr.</P>
+<H3>Background:</H3>
+<P>Psionicsts are trained individually, apprenticed to a master psionicist soon 
+after they show the talent. There are rarely any large institutions where psionicists 
+gather -- most work alone and rely almost entirely on their own skills to get 
+by. </P>
+<P>In places where psionics are tolerated, psionicists may hold the position of 
+lay healer for a village, or the position of adept. In larger cities and organizations, 
+see <CITE>The Will and the Way</CITE> for more details.</P>
+<H3>Races:</H3>
+<P>Any race can be a psionicist. Elven psionicists, with their long lives to meditate 
+and study the Way, can become incredibly powerful. Generally, though, psionics 
+manifest more often in humans than in any other race.</P>
+<H3>Other Classes:</H3>
+<P>Psionics usually manifest in a person around puberty. Thus, most psionicists 
+had no idea they were going to be psionicists until they were already on another 
+path. Since many apprenticeships begin before the age of 12, there are probably 
+more multi-classed psionicists than any other class.</P>
+<H2>Game Rule Information</H2>
+<P>Psionicists have the following game statistics.</P>
+<H3>Abilities:</H3>
+<P>Wisdom determines how many Psionic Strength Points (PSPs) a psionicist has 
+to spend on his powers and also determines bonus powers. However, Strength, 
+Intelligence, and Constitution also control a number of powers, so all abilities 
+are important to the psionicist. A high Constitution improves a psionicist's 
+hit points and a high Dexterity will improve his usually poor armor class.</P>
+<H3>Alignment:</H3>
+<P>Psionicists must be non-chaotic.</P>
+<H3>Hit Die:</H3>
+<P>d6</P>
+<H3>Class Skills</H3>
+<P>The psionicist's class skills (and the key ability for each skill) are<BR>
+Concentration (Con),<BR>
+Craft (Int),<BR>
+Gather Information (Cha),<BR>
+Hypnosis (Cha, exclusive skill),<BR>
+Knowledge (religion) (Int),<BR>
+Knowledge (psionics) (Int),<BR>
+Perform (Cha), <BR>
+Profession (Wis),<BR>
+Psicraft (Int, exclusive skill),<BR>
+Scry (Int, exclusive skill).</P>
+<P>See <CITE>Player's Handbook</CITE>, Chapter 4: Skills for skill descriptions 
+of most skills. Psicraft, a new skill, works just like Spellcraft, but only 
+works on psionic powers and their effects. Hypnotism, a new skill, works like 
+the Arcane spell Hypnotism. The DC for Hypnosis victims' Will saves is equal 
+to the psionicist's skill roll.</P>
+<P>Skill Points at 1st Level: (2 + Int modifier) x 4.<BR>
+Skill Points at Each Additional Level: 2 + Int modifier.</P>
+<H3>Class Features</H3>
+<P>All of the following are class features of the psionicist.</P>
+<H4>Armor and Weapon Proficiency:</H4>
+<P>Psionicists are proficient with all simple weapons plus the short sword and 
+shortbow. They are proficient with light and medium armors, but are prohibited 
+from wearing metal armor (thus they may wear only padded, leather, or hide armor). 
+Psionic powers can be disrupted by large quantities of metal, especially in 
+the form of a helmet. In order to use their powers, psionicists can only wear 
+non-metal armor and may never wear a helmet of any kind (unless it is psionically 
+enhanced). Psionicists are trained to use shields, but must use only wooden 
+ones.</P>
+<H4>Still Mind:</H4>
+<P>All psionicists gain a +2 bonus to saving throws against spells and effects 
+from the Enchantment school, since their mediation and training enable them 
+to better resist mind-affecting attacks. (As Monks)</P>
+<H4>Psionics:</H4>
+<P>Psionicists have psionic powers, as described in the following section. Each 
+psionicist must choose one Discipline to be his primary discipline at 1st level. 
+This discipline is eligible for bonus powers, according to the psionicist's 
+Wisdom. Additional disciplines are gained as shown in the Class Table.</P>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="1" CELLPADDING="1">
+<TR> 
+<TH>Score</TH>
+<TH>Initial PSPs</TH>
+<TH>Bonus Devotions</TH>
+<TH>Bonus Sciences</TH>
+</TR>
+<TR> 
+<TD>10-11</TD>
+<TD ALIGN="CENTER">10-12</TD>
+<TD ALIGN="CENTER">-</TD>
+<TD ALIGN="CENTER">-</TD>
+</TR>
+<TR> 
+<TD>12-13</TD>
+<TD ALIGN="CENTER">14-16</TD>
+<TD ALIGN="CENTER">1</TD>
+<TD ALIGN="CENTER">-</TD>
+</TR>
+<TR> 
+<TD>14-15</TD>
+<TD ALIGN="CENTER">18-20</TD>
+<TD ALIGN="CENTER">2</TD>
+<TD ALIGN="CENTER">-</TD>
+</TR>
+<TR> 
+<TD>16-17</TD>
+<TD ALIGN="CENTER">22-24</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">-</TD>
+</TR>
+<TR> 
+<TD>18-19</TD>
+<TD ALIGN="CENTER">26-28</TD>
+<TD ALIGN="CENTER">3</TD>
+<TD ALIGN="CENTER">1</TD>
+</TR>
+<TR> 
+<TD>20-21</TD>
+<TD ALIGN="CENTER">30-32</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">1</TD>
+</TR>
+<TR> 
+<TD>22-23</TD>
+<TD ALIGN="CENTER">34-36</TD>
+<TD ALIGN="CENTER">4</TD>
+<TD ALIGN="CENTER">2</TD>
+</TR>
+<TR> 
+<TD>24-25</TD>
+<TD ALIGN="CENTER">38-40</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">2</TD>
+</TR>
+<TR> 
+<TD>26-27</TD>
+<TD ALIGN="CENTER">42-44</TD>
+<TD ALIGN="CENTER">5</TD>
+<TD ALIGN="CENTER">3</TD>
+</TR>
+<TR> 
+<TD>28-29</TD>
+<TD ALIGN="CENTER">46-48</TD>
+<TD ALIGN="CENTER">6</TD>
+<TD ALIGN="CENTER">3</TD>
+</TR>
+<TR> 
+<TD>etc...</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+<TD ALIGN="CENTER">&nbsp;</TD>
+</TR>
+</TABLE>
+<P>&nbsp;</P>
+<P>Each psionicist has a set number of PSPs that he may use each day. This number 
+is determined based on the character's Wisdom, Intelligence, and Constitution 
+scores.</P>
+<P>At 1st level, a psionicist begins with a number of PSPs based on his Wisdom 
+score, indexed in the previous table, plus his Intelligence and Constitution 
+modifiers. </P>
+<P>So, for example, Jackal has C 16, I 14, W 16. At 1st level, Jackal has 22+3 
+(C) +2 (I) = 27 PSPs.</P>
+<P>At each level above 1st, a psionicist gains 10 + his Wisdom modifier additional 
+PSPs. So, at 2nd level, Jackal gains another 10+3 = 13 additional PSPs, for 
+a total of 40 PSPs.</P>
+<P>Even though a psionicist may not have access to the Telepathy Discipline, he 
+still is able to defend himself when attacked psionically. As he gains levels, 
+he automatically gains access to additional Defense Modes (Constructs) as shown 
+on the Class Table.</P>

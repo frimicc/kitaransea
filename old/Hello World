@@ -1,0 +1,9 @@
+<h1>Static Test File</h1>
+<%
+print "<p>Hello, world.</p>";
+%>
+
+<p>something else
+Or try the Home page.</p>
+
+# This is an H1 #

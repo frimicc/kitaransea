@@ -1,0 +1,220 @@
+<H1 ALIGN="center">Skeeve</H1>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="28%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="90%">
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Strength</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">14</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Dexterity</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">13</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Constitution</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">15</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Intelligence</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">16 (17)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Wisdom</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">16 (18)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Charisma</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">15</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="72%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Race</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Human</FONT></TD>
+<TD WIDTH="54%" VALIGN="TOP" ROWSPAN="6"><FONT SIZE="2">Bookish. Early twenties in age, well traveled. A troubadour with many
+aliases and languages.</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Class</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Psionicist</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Alignment</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Neutral Good</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Gender</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Male</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Experience</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">201,000</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Level</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">10</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<CAPTION>
+<H3>Combat</H3>
+</CAPTION>
+<TR>
+<TD WIDTH="65%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2"><B>Weapon</B></FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>THAC0</B></FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>Speed</B></FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2"><B>Damage</B></FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Glordoranel: Short Sword +2</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">14</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">1</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d6+2/1d8+2</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Short Bow &amp; arrows</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">16</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">7</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d6 / 1d8</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="35%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>Armor Class</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">-4</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Surprised AC</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">-5</FONT>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>THAC0</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">16</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Hit Points</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">48</FONT>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Proficiencies</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Abilities</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Scimitar<BR>
+Short Bow<BR>
+Short Sword<BR>
+<BR>
+Speak Beogarish                (+3 unused slots)<BR>
+Speak Ketite<BR>
+Speak Athmyrian<BR>
+Speak Common<BR>
+Read &amp; Write Beogarish<BR>
+Singing<BR>
+Musical Instrument<BR>
+Rejuvenation</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Primary Discipline</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Psychoportation</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Disciplines</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Psychoportation, Metapsionics (-1), Telepathy (-2), Clairsentience (-3)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>PSPs</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">158 (+ 158 in Receptacle)</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Equipment</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Notes</B></FONT> 
+</CENTER>
+<HR ALIGN="LEFT" WIDTH="90%" SIZE="1">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Bag of Holding (weighs 35#, holds 1,000# 150 cu.ft.)<BR>
+Cloak of Protection +2<BR>
+Ring of Protection +2<BR>
+Ring of Invisibility<BR>
+Short Sword (Glordoranel) +2<BR>
+Receptacle: 2 - 5,000gp gem &amp; 1 - 500 gp gem<BR>
+Hide Armor<BR>
+Suit of Red Dragon scale armor (AC -5)<BR>
+Small Shield<BR>
+Short Bow<BR>
+Quiver w/50 arrows<BR>
+Lute<BR>
+(memorized) Map of the Underdark<BR>
+5 - 5,000gp gems<BR>
+2,115 gp</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Andrew's Character. <BR>
+<BR>
+Aliases:<BR>
+Skeeve Hawking (Beogarish)<BR>
+John Bookbinder (Waylander)<BR>
+Jaque Shelak (Athmyrian)<BR>
+Chronos Transpos (Ketite)<BR>
+<BR>
+Items on Loan:<BR>
+Hygulf - Bracers of Defense, AC 3</FONT></TD>
+</TR>
+</TABLE>

@@ -1,0 +1,63 @@
+<H1>Kitaran Sea Calendar</H1>
+<P>
+The calendar starts in the <I>actual</I> middle of winter.
+</P>
+<P>
+This world has two moons, like Greyhawk:
+</P>
+<DL>
+<DT>Luna</DT>
+<DD>The larger moon, similar to our Earth's revolves around the planet
+once every 28 days. This gives the calendar its months.</DD>
+<DT>Celene</DT>
+<DD>The smaller, silvery moon, similar to the moons of Mars, revolves
+around the planet once every 91 days. This gives the calendar its 
+festivals.</DD>
+</DL>
+<P>
+This gives the residents of the area 12 full months of 28 days each and
+four week-long festivals. <BR>
+A week consists of seven days:
+</P>
+<UL>
+<LI>Starday</LI>
+<LI>Sunday</LI>
+<LI>Moonday</LI>
+<LI>Godsday (reserved for worship)</LI>
+<LI>Waterday</LI>
+<LI>Earthday</LI>
+<LI>Freeday (usually reserved for a holiday)</LI>
+</UL>
+<P>
+The four festivals are:
+</P>
+<UL>
+<LI><A HREF="winter.html#needfest">Needfest</A>, which celebrates the darkest day.</LI>
+<LI><A HREF="spring.html#growfest">Growfest</A>, which celebrates the spring growth.</LI>
+<LI><A HREF="summer.html#richfest">Richfest</A>, which celebrates the plentiful season.</LI>
+<LI><A HREF="autumn.html#brewfest">Brewfest</A>, which celebrates the harvest.</LI>
+</UL>
+<P>
+The Dozenmonth of the moon is therefore:
+</P>
+<TABLE>
+<TR><TD>Needfest</TD><TD>Growfest</TD><TD>Richfest</TD><TD>Brewfest</TD></TR>
+<TR>
+<TD><A HREF="winter.html#fireseek">Fireseek</A></TD>
+<TD><A HREF="spring.html#planting">Planting</A></TD>
+<TD><A HREF="summer.html#reaping">Reaping</A></TD>
+<TD><A HREF="autumn.html#patchwall">Patchwall</A></TD>
+</TR>
+<TR>
+<TD><A HREF="winter.html#readying">Readying</A></TD>
+<TD><A HREF="spring.html#flocktime">Flocktime</A></TD>
+<TD><A HREF="summer.html#goodmonth">Goodmonth</A></TD>
+<TD><A HREF="autumn.html#readyreat">Ready'reat</A></TD>
+</TR>
+<TR>
+<TD><A HREF="winter.html#coldeven">Coldeven</A></TD>
+<TD><A HREF="spring.html#wealsun">Wealsun</A></TD>
+<TD><A HREF="summer.html#harvester">Harvester</A></TD>
+<TD><A HREF="autumn.html#sunsebb">Sunsebb</A></TD>
+</TR>
+</TABLE>

@@ -1,0 +1,149 @@
+<H1>Psionic Rules</H1>
+<P>Psionic powers are very different from magic. Psionics are powered from within 
+the psionicist's mind and body, while magic is powered from outside, usually 
+other planes. Psionics are not guarenteed to work, unlike magic which has a 
+recipe approach. Also, psionics can be directly confrontational, forcing one 
+psionicist into mental combat with another, which has no counterpart in magic.</P>
+<P>These rules are an adaptation of the Advanced Dungeons &amp; Dragons, 2nd Edition 
+rules, as stated in <CITE>The Complete Psionics Handbook</CITE> and <CITE>The 
+Will and the Way</CITE>. Both of those books are still the canonical sources; 
+these rules merely convert the information to 3rd Edition standards.</P>
+<H2> Using Powers</H2>
+<P>A psionicist has, at any given moment, a set number of Psionic Strength Points 
+(PSPs) to spend to initiate and maintain any of the sciences or devotions that 
+he knows.</P>
+<P>To initiate a power, the psionicist makes a skill check for that power. If 
+the check is successful, he pays the required number of PSPs and the power works. 
+If the check is unsuccessful, he pays half of the necessary PSPs and nothing 
+happens. The psionicist can attempt to initiate the power again the following 
+round.</P>
+<P>The power check is performed just like any other skill check, but with a Discipline 
+Level modifier instead of a skill rank. The Discipline Level is the number of 
+levels the psionicist has had access to that Discipline. So a 1st level psionicist 
+who chose Clairsentience as his major Discipline would have a DL bonus of +1 
+when using Clairsentience powers. At 6th level, he will have had access to Clairsentience 
+for 6levels, so his DL bonus would be +6. However, at 6th level, he would only 
+have had his second discipline for 5 levels, with a +5 bonus, and his third 
+discipline would be new, so it would be only at +1!</P>
+<P>The ability modifier for the check differs for each power. Use the ability 
+mentioned in the Power Score, as listed in the power's definition. For example, 
+Poison Sense is based on Wisdom, so the ability modifier would be the psionicist's 
+Wisdom modifier.</P>
+<P>So, to determine the result of a power check, it is<BR>
+<STRONG>d20 + DL bonus + ability modifier</STRONG></P>
+<P>The DC for the power should be determined by the DM. Generally, you can use 
+10 - the power's power score penalty. Since the penalties are usually negative, 
+that means you add the number to 10 to make a higher DC. For psychic contests, 
+the DC is usually the other psionicist's power check roll.</P>
+<P>So, to determine the DC for a power, it is<BR>
+<STRONG>10 - (power score penalty)</STRONG></P>
+<P>Special effects may occur if the psionicist rolls really well or really poorly. 
+<BR>
+If the psionicist rolls a <STRONG>natural 20</STRONG>, he gets the result specified for 
+equalling the <STRONG>Power Score in the power's definition</STRONG>.<BR>
+If he rolls a <STRONG>natural 1</STRONG>, he gets the result specified for rolling a <STRONG>20 
+in the power's definition</STRONG>.<BR>
+Bonuses to the check do not count towards these purposes. </P>
+<H2>Regaining PSPs</H2>
+<P><FONT FACE="Comic Sans MS, Verdana, Geneva, Arial, sans
+serif">Once they are &quot;spent&quot;, PSPs can be recovered simply by not performing 
+psionic activity. However, the overall level of physical activity performed 
+has a bearing on the speed at which PSPs are recovered. There are also feats 
+and powers that let a psionicist recover PSPs more rapidly.</FONT></P>
+</FONT> 
+<TABLE BORDER="0" CELLSPACING="1" CELLPADDING="1" WIDTH="50%">
+<TR> 
+<TH>Physical Activity</TH>
+<TH>PSPs Recovered</TH>
+</TR>
+<TR> 
+<TD>Hard exertaion (fighting, running, walking while encumbered, climbing, 
+etc.) </TD>
+<TD>none</TD>
+</TR>
+<TR> 
+<TD>Walking, riding</TD>
+<TD>3/hour (1/20 minutes)</TD>
+</TR>
+<TR> 
+<TD>Sitting, resting, reading</TD>
+<TD>6/hour (1/10 minutes)</TD>
+</TR>
+<TR> 
+<TD>Rejuvenating (the feat), sleeping</TD>
+<TD>12/hour (1/5 minutes)</TD>
+</TR>
+</TABLE>
+<BR>
+<FONT FACE="Comic Sans MS, Verdana, Geneva, Arial, sans
+serif"> 
+<H2>Psionic Combat</H2>
+<P>Telepathic combat is still a series of psychic contests between two psionicists. 
+Now, however, the higher roll wins.</P>
+<P>Apply the Attack/Defense mode modifiers to the attacker's power check, from 
+the following table:</P>
+</FONT>
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="1" CELLPADDING="1">
+<TR> 
+<TH COLSPAN="6">Attack vs. Defense Modes</TH>
+</TR>
+<TR> 
+<TH>&nbsp;</TH>
+<TH>Mind Blank</TH>
+<TH>Thought Shield</TH>
+<TH>Mental Barrier</TH>
+<TH>Intellect Fortress</TH>
+<TH>Tower of Iron Will</TH>
+</TR>
+<TR> 
+<TH>Mind Thrust</TH>
+<TD ALIGN="CENTER">+5</TD>
+<TD ALIGN="CENTER">-2</TD>
+<TD ALIGN="CENTER">-4</TD>
+<TD ALIGN="CENTER">-4</TD>
+<TD ALIGN="CENTER">-5</TD>
+</TR>
+<TR> 
+<TH>Ego Whip</TH>
+<TD ALIGN="CENTER">+5</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">-3</TD>
+<TD ALIGN="CENTER">-4</TD>
+<TD ALIGN="CENTER">-3</TD>
+</TR>
+<TR> 
+<TH>Id Insinuation</TH>
+<TD ALIGN="CENTER">-3</TD>
+<TD ALIGN="CENTER">+2</TD>
+<TD ALIGN="CENTER">+4</TD>
+<TD ALIGN="CENTER">-1</TD>
+<TD ALIGN="CENTER">-3</TD>
+</TR>
+<TR> 
+<TH>Psychic Crush</TH>
+<TD ALIGN="CENTER">+1</TD>
+<TD ALIGN="CENTER">-3</TD>
+<TD ALIGN="CENTER">-1</TD>
+<TD ALIGN="CENTER">-3</TD>
+<TD ALIGN="CENTER">-4</TD>
+</TR>
+<TR> 
+<TH>Psionic Blast</TH>
+<TD ALIGN="CENTER">+2</TD>
+<TD ALIGN="CENTER">+3</TD>
+<TD ALIGN="CENTER">0</TD>
+<TD ALIGN="CENTER">-1</TD>
+<TD ALIGN="CENTER">-2</TD>
+</TR>
+</TABLE>
+<FONT FACE="Comic Sans MS, Verdana, Geneva, Arial, sans
+serif">
+<P>To take into account 3e surprise rules, a psionicist caught flat-footed (meaning 
+has not yet acted in the first round of a combat) can only have Mind Blank up 
+as a defense, since it costs 0 PSPs and is assumed to be constantly maintained 
+at all times. When a psioncist has a chance to act, he can choose which of his 
+available Defense Modes to use for the next round. The choice remains until 
+his turn to act comes in the next round.</P>
+<P>Psionicists can still make 2 attacks in a single round with each use of an 
+Attack Mode and unlimited defenses with each use of a Defense Mode.</P>
+<P>

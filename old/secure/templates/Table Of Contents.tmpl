@@ -1,0 +1,75 @@
+<!--
+	This example page shows how to use named anchors to implement a
+	Table Of Contents for easy navigation within a single page.
+-->
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+<HEAD>
+
+<!--
+	Notice that the "TITLE" here will be replaced with whatever you
+	type into the "Title" section of the "New Document..." dialog.
+-->
+
+<TITLE>#TITLE#</TITLE>
+
+</HEAD>
+<BODY>
+
+<H1>Table Of Contents Example</H1>
+
+This example page shows how to use named anchors to implement a Table Of
+Contents for easy navigation within a single page.
+<p>
+	
+<H2><A NAME="TOC">Table Of Contents:</A></H2>
+<UL TYPE=DISC>
+	<LI><A HREF="#whatis">What Is BBEdit?</A>
+	<LI><A HREF="#whygreat">Why Is BBEdit So Great?</A>
+	<LI><A HREF="#whouses">Who Uses BBEdit?</A>
+	<LI><A HREF="#moreinfo">How Can I Find Out More?</A>
+</UL>
+
+<!-- The <HR> tag creates a horizontal rule, which is a convenient section divider -->
+<HR>
+
+<!--
+	For each section, there is a named anchor tag, then the contents. The
+	section heading is enclosed in the named anchor tag, so that when the
+	user navigates to this section, the heading will appear at the top of
+	the screen.
+	
+	For the user's convenience, there's also a link back to the main table
+	of contents, and a horizontal rule separator.
+	
+	If you click on the function popup (the icon just to the right of the
+	pencil), BBEdit will show you all of the named anchors and headings in a
+	popup menu. You can jump straight to a named anchor or heading simply by
+	choosing it from this menu. Note that headings appear in the popup menu
+	with the heading level in the left-hand column; for example level two
+	headings have a "2" in the menu.
+-->
+
+<H2><A NAME="whatis">What Is BBEdit?</A></H2>
+<p>
+<A HREF="#TOC">Table Of Contents</A>
+<HR>
+
+<H2><A NAME="whygreat">Why Is BBEdit So Great?</A></H2>
+<p>
+<A HREF="#TOC">Table Of Contents</A>
+<HR>
+
+<H2><A NAME="whouses">Who Uses BBEdit?</A></H2>
+<p>
+<A HREF="#TOC">Table Of Contents</A>
+<HR>
+
+<H2><A NAME="moreinfo">How Can I Find Out More?</A></H2>
+<p>
+<A HREF="#TOC">Table Of Contents</A>
+<HR>
+
+</BODY>
+</HTML>

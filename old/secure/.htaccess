@@ -1,0 +1,8 @@
+AuthUserFile /afs/ir.stanford.edu/users/f/r/frimicc/security/.htpasswd
+AuthGroupFile /afs/ir.stanford.edu/users/f/r/frimicc/security/.htgroup
+AuthName "For DM eyes only"
+AuthType Basic
+
+order deny,allow
+require group dm
+

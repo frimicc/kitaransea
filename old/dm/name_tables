@@ -1,0 +1,221 @@
+<P>
+These tables are used to randomly generate place and NPC names.
+</P>
+<P>
+New characters in the campaign should pick an appropriate name, based on their
+birthplace.
+</P>
+<P>
+<I>Note: There is no table for Waylander names. Waylanders are named similarly
+to modern americans. (John, Chris, Moonbeam, etc.)</I>
+</P>
+<P>
+To generate Place Names:<P>
+Roll for first and second elements on the appropriate table.<P>
+<P>
+To generate Personal Names:<P>
+Find length on table below, then roll as specified on the appropriate
+table.<P>
+<PRE>
+D6     num. of     use column     
+elements                   
+1         1        1              
+2         2        1 + pers end   
+3         2        1 + pers end   
+4         2        2 + pers end   
+5         3        1 + 2 + per end            
+6         4        1 + 1 + 2 + p e            
+</PRE>
+<P>
+<B>Elven Personal Names</B>
+</P>
+<PRE>
+D6      num. of     use column     
+elements                    
+1          2        1 + pers end   
+2          2        2 + pers end   
+3          3        1 + 1 + per end            
+4          3        1 + 2 + per end            
+5          3        1 + 3 + per end            
+6          4        1 + 2 + 3 + p e            
+</PRE>
+<P>
+<P>
+<P>
+<B>Goblinoid Personal Names</B><P>
+<B></B>
+<PRE>
+D6      num. of     use column     
+elements                    
+1          1        1              
+2          1        2              
+3          1        Per sonal end  
+4          2        1 + pers end   
+5          2        2 + pers end   
+6          2        1 + 2          
+</PRE>
+<H2>
+Athmyrian Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Personal    
+Ending      
+1     Ais         ais         amy         
+2     Beau        aisle       ard         
+3     Bai         brun        bec         
+4     Cor         bur         bert        
+5     Deu         del         bod         
+6     Donn        dinon       court       
+7     Fonten      fel         dam         
+8     Gren        for         den         
+9     Hois        grande      grim        
+10    Lil         grois       ly          
+11    Ly          gris        man         
+12    Mars        lanque      oc          
+13    Mon         mais        red         
+14    Na          nuon        rew         
+15    Par         non         son         
+16    Reil        ois         tal         
+17    Sien        puit        ter         
+18    Sur         quel        ton         
+19    Tour        rienne      wel         
+20    Vers        3 elements  win         
+</PRE>
+<H2>
+Beogarish Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Personal    
+Ending      
+1     &AElig;thel       balth       amy         
+2     Beo         bern        ard         
+3     Blith       brod        bec         
+4     Coen        burg        bert        
+5     Cud         cyni        bod         
+6     Ead         ferth       court       
+7     Ealh        frithu      dam         
+8     Earn        geld        den         
+9     Eorcon      gyd         grim        
+10    Folc        hathu       ly          
+11    Fri         hilde       man         
+12    Grim        laf         oc          
+13    H&aelig;m         lind        red         
+14    Hreth       mund        rew         
+15    Hu&aelig;t        noth        son         
+16    Leof        r&aelig;d         tal         
+17    Ongen       sige        ter         
+18    Sele        thryd       ton         
+19    Til         weard       wel         
+20    Wig         wynn        win         
+</PRE>
+<H2>
+Ketite Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Personal    
+Ending      
+1     Alpan       an          amy         
+2     Ath         as          ard         
+3     Bil         ath         bec         
+4     Col         dar         bert        
+5     Das         dir         bod         
+6     Far         en          court       
+7     Goth        er          dam         
+8     Gran        in          den         
+9     Hath        is          grim        
+10    Jun         ith         ly          
+11    Kit         mun         man         
+12    Maar        oc          oc          
+13    Neth        on          red         
+14    Ruan        or          rew         
+15    Sauth       os          son         
+16    Sel         pen         tal         
+17    Stan        thar        ter         
+18    Tel         us          ton         
+19    Urth        was         wel         
+20    Zyn         3 elements  win         
+</PRE>
+<H2>
+Dwarven Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Personal    
+Ending      
+1     Alabrin     adum        bar         
+2     Aman        adol        bard        
+3     Askul       afor        gar         
+4     Bal         agun        gin         
+5     Brok        agrim       gorf        
+6     Buk         akarak      gorm        
+7     Dun         alin        grim        
+8     Dur         aluk        grom        
+9     Dwor        athol       i           
+10    Forbrin     amenak      in          
+11    Gon         ban         it          
+12    Ithrag      dor         kon         
+13    Kar         dum         lin         
+14    Karaz       kai         lok         
+15    Kul         killuk      min         
+16    Mun         krag        ok          
+17    Narga       lum         ori         
+18    Ollo        mun         ril         
+19    Tar         tor         rin         
+20    Thor        ungol       und         
+</PRE>
+<H2>
+Elven Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Element 3   Personal    
+Ending      
+1     Ath         a           anwe        andar       
+2     Brim        an          anfel       andril      
+3     Cir         at          ar          anel        
+4     Con         ath         ath         are         
+5     Dor         brod        del         bane        
+6     Ethil       dia         don         deorn       
+7     El          dor         dor         ellion      
+8     Elo         en          gost        endil       
+9     End         fin         in          fin         
+10    For         for         lun         galiel      
+11    Gith        gol         mar         huir        
+12    Glor        in          nost        ien         
+13    Hir         lor         or          il          
+14    In          mar         ost         ir          
+15    Lor         ol          oth         irel        
+16    Loth        rol         rond        irlan       
+17    Nim         sor         tor         mor         
+18    Ra          than        uen         nor         
+19    Sor         thiel       und         nw&aelig;n        
+20    Than        -           -           wing        
+</PRE>
+<H2>
+Black Speech Place &amp; Personal Names
+</H2>
+<PRE>
+D20   Element 1   Element 2   Personal    
+Ending      
+1     Ash         bad         bad         
+2     Bran        blod        bag         
+3     Bog         bul         blad        
+4     Bug         burg        bref        
+5     Dhak        dor         bug         
+6     Drog        gabab       but         
+7     Durth       ghul        gag         
+8     Gor         gog         gar         
+9     Grag        goth        gol         
+10    Grim        grod        grot        
+11    Karg        rot         grud        
+12    Mor         run         hog         
+13    Nar         shak        i           
+14    Narg        slag        lud         
+15    Naz         thang       lug         
+16    Thor        ungol       nok         
+17    Uth         waz         rat         
+18    Uz          Reroll +1   rot         
+column 1                
+19    Zod         Reroll +1   ruk         
+column 2                
+20    Zog         Reroll +1   zog         
+column 2                
+</PRE>

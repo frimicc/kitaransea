@@ -1,0 +1,20 @@
+<H2>Site Map</H2>
+<DL>
+<DT><h3>Major Sections</h3></DT>
+<DD><A HREF="calendar/index.html">Calendar</A></DD>
+<DD><a href="characters/index.html">Characters</a></DD>
+<DD><a href="dm/index.html">DM Information</a></DD>
+<DD><A HREF="gods/index.html">Deities</A></DD>
+<DD><A HREF="guide/index.html">Guidebook</A></DD>
+<DD><a href="maps/index.html">Maps</a></DD>
+<DD><A HREF="story/index.html">Story</A></DD>			
+<DT><h3>Other top-level pages</h3></DT>
+<DD><a href="about.html">About this Site</a></DD>
+<DD><a href="history.html">History</a></DD>
+<DD><a href="main.html">Home Page</a></DD>
+<DD><a href="new.html">What's New?</a></DD>
+<DD><a href="search.html">Search Page</a></DD>
+<DD><a href="search_help.html">Searching Help</a></DD>
+<DD><a href="timeline.html">Timeline</a></DD>
+<DD><a href="world.html">World Information</a></DD>
+</DL>

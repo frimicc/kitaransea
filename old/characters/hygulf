@@ -1,0 +1,225 @@
+<H1 ALIGN="center">Hygulf</H1>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="28%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="90%">
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Strength</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">16 (18)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Dexterity</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">11</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Constitution</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">18 (19)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Intelligence</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">15 (16)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Wisdom</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">18 (20)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="65%"><FONT SIZE="2"><B>Charisma</B></FONT></TD>
+<TD WIDTH="35%"><FONT SIZE="2">9</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="72%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Race</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Human</FONT></TD>
+<TD WIDTH="54%" VALIGN="TOP" ROWSPAN="6"><FONT SIZE="2">Twenty-two years old, but looks older due to the old hides he wears.
+Generally unwashed and blunt. Should have been a druid.</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Class</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Psionicist</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Alignment</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Neutral Good</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Gender</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">Male</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Experience</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">245,500</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="24%"><FONT SIZE="2"><B>Level</B></FONT></TD>
+<TD WIDTH="22%"><FONT SIZE="2">10</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<CAPTION>
+<H3>Combat</H3>
+</CAPTION>
+<TR>
+<TD WIDTH="65%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2"><B>Weapon</B></FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>THAC0</B></FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2"><B>Speed</B></FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2"><B>Damage</B></FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Short Sword of Speed +2</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">11</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">-1</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d6+8/1d8+8</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="47%"><FONT SIZE="2">Inforanel: Short Sword +2</FONT></TD>
+<TD WIDTH="13%">
+<P ALIGN="CENTER"><FONT SIZE="2">11</FONT>
+</TD>
+<TD WIDTH="10%">
+<P ALIGN="CENTER"><FONT SIZE="2">0</FONT>
+</TD>
+<TD WIDTH="30%"><FONT SIZE="2">1d6+8/1d8+8</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="35%">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>Armor Class</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">-8</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Surprised AC</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">-8</FONT>
+</TD>
+</TR>
+<TR>
+<TD WIDTH="25%"><FONT SIZE="2"><B>THAC0</B></FONT></TD>
+<TD WIDTH="21%">
+<P ALIGN="CENTER"><FONT SIZE="2">16</FONT>
+</TD>
+<TD WIDTH="29%"><FONT SIZE="2"><B>Hit Points</B></FONT></TD>
+<TD WIDTH="25%">
+<P ALIGN="CENTER"><FONT SIZE="2">68</FONT>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Proficiencies</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+<TD WIDTH="50%">
+<CENTER>
+<P><FONT SIZE="2"><B>Abilities</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">Short Blades<BR>
+Short Bow<BR>
+Two-weapon style<BR>
+<BR>
+Speak Beogarish<BR>
+Speak Common<BR>
+Read &amp; Write Common<BR>
+Rejuvenation<BR>
+Meditation Focus<BR>
+Herbalism<BR>
+Healing<BR>
++1 free slot
+</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Primary Discipline</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Psychometabolism</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>Disciplines</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">Psychometabolism, Psychoportation (-1), Metapsionics (-2), Telepathy (-3)</FONT></TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2"><B>PSPs</B></FONT></TD>
+<TD WIDTH="50%"><FONT SIZE="2">183 (+ 183 in Receptacle)</FONT></TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+<BR>
+<TABLE BORDER="0" CELLSPACING="1" WIDTH="100%">
+<TR>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Equipment</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<CENTER>
+<P><FONT SIZE="2"><B>Notes</B></FONT>
+</CENTER>
+<HR WIDTH="90%" SIZE="1" ALIGN="left">
+</TD>
+</TR>
+<TR>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">
+Short Sword of speed +2<BR>
+Short Sword (Inforanel) +2<BR>
+Gauntlets of Ogre Power<BR>
+Cloak of Protection +2<BR>
+Bracers of Defense, AC 3<BR>
+Suit of Red Dragon scale armor (AC -5)<BR>
+Ring of Free Action<BR>
+Ring of Protection +3<BR>
+Receptacle: 1 - 10,000 gp gem<BR>
+4 - 5,000 gp gems<BR>
+1 - 1,000 gp gem<BR>
+1 - 700 gp gem<BR>
+Hide Armour <BR>
+1 Good Dagger (+1 Dam)<BR>
+1 Good Short Bow Quiver 50 Arrows<BR>
+Jade Panther Pendant <BR>
+Scroll Protection from Undead<BR>
+3 Potions of Holy Water<BR>
+4 Magic Arrows<BR>
+Object of Art (vase/flask set), worth 6,000gp</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP"><FONT SIZE="2">
+Rodric's Player Character.<BR>
+<BR>
+Has managed to make poisons &amp; antidotes (using Poison Simulation) for all types,
+A - M<BR>
+<BR>
+Favorite Tactic: Time Dilation and Accelerate to haste himself in combat for up to
+12 attacks per round!</FONT></TD>
+</TR>
+</TABLE>

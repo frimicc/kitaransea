@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <%
+    print '<title>'.$ENV{THIS_FILE}.'</title>';
+    %>
+	
+	<!-- horizontal menu CSS by Eric Shepherd, from A List Apart, http://www.alistapart.com/articles/hybrid/ -->
+	<style type="text/css" media="screen">
+		.wdlink {
+			/*color: #3366CC;*/
+			color: #000066;
+			text-decoration: none;			
+		}
+		.currentmenulink {
+			color: #660000;
+		}
+		.menulink {
+			color: #006600;
+		}
+		#nav li {
+		  /*float the main list items*/
+		  margin: 0;
+		  float: left;
+		  display: block;
+		  padding-right: 5px;
+		}
+		#nav li a {
+		  /*for all links in the list*/
+		  font-weight: bold;
+		  display: block;
+		  height: 15px;
+/*		  width: 80px;*/
+		  border: 1px solid #29497b;
+		  padding: 5px;
+		}
+		#nav li a:hover, #nav li:hover a {
+		  background: #618CC8;
+		}
+		.copyrightline {
+			text-align: center;
+		}
+	</style>
+	
+</head>
+<body>
+	<%
+	# get current dir, so we can color it differently
+	my $current_dir = $ENV{THIS_FILE};
+	$current_dir =~ s{/.+$}{};
+	print "<ul id=\"nav\">\n";
+	foreach my $dir (@dirs) {
+		my $menu_link_class = 'menulink';
+		$menu_link_class = 'currentmenulink' if ($dir eq $current_dir);
+		print "<li><a class=\"$menu_link_class\" href=\"?$reg_to_file_path{lc($dir)}\">$dir</a></li>\n";
+	}
+	print "</ul><br/><br/><hr/><br/>\n";
+	
+	%>

@@ -1,0 +1,58 @@
+<!--
+	This is a very simple example page: it consists of a heading, followed
+	by a a couple of links to another pages. However, it shows off some
+	interesting ideas, such as the "on the fly" interpretation of special
+	sequences of characters.
+-->
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 3.0//EN">
+<HTML>
+<HEAD>
+
+<!--
+	When creating a page from this template, the "USERNAME" string will
+	be replaced with the user name that you entered in the "Sharing Setup"
+	control panel.
+-->
+
+<TITLE>#USERNAME#'s First Page</TITLE>
+
+
+</HEAD>
+<BODY>
+
+<H1>#USERNAME#'s First Page</H1>
+<p>
+This example was <A HREF="http://www.barebones.com/builtwith.html">Built With BBEdit</A>.
+<p>
+To find out more about BBEdit, <A HREF="http://www.barebones.com">visit Bare Bones Software's Web site</A>.
+<p>
+
+<!--
+	It's customary to separate version and credit information from the rest of
+	the page's content by using a horizontal rule, so we do that here.
+-->
+
+<hr>
+
+<!--
+	This little bit of HTML uses the "PERSON" tag (an HTML 3.0 extension)
+	to make your name known to Web search engines. The "USERNAME" will be replaced
+	with the name that you entered in the "Sharing Setup" control panel, and the
+	"LONGDATE" will be replaced with the current date.
+-->
+
+Created by <PERSON>#USERNAME#</PERSON> on #LONGDATE#.
+
+<!--
+	This email link will get your email address from the "Email" section
+	of the Internet Config settings, and replace the "IC_EMAIL" with that
+	address. Notice that the substitution is done twice here: once for the
+	anchor link, and again for the visible content.
+-->
+
+<BR>
+For more information, please <A HREF="mailto:#IC_EMAIL#">send mail to #IC_EMAIL#</A>.
+
+</BODY>
+</HTML>

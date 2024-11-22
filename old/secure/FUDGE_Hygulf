@@ -1,0 +1,314 @@
+<HEAD>
+<TITLE>FUDGE Character Sheet</TITLE>
+</HEAD>
+<form method="post" action="" name="Nothing">
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%" height="649">
+<TR>
+<TD WIDTH="490" ALIGN=CENTER height="117"> 
+<TABLE BORDER="1" CELLSPACING="1" CELLPADDING="0" width="100%">
+<TR>
+<TD WIDTH="194" ALIGN=CENTER height="203"> 
+<table width="100%" border="0" height="69">
+<tr bgcolor="lightgrey" align="center"> 
+<td width="11%"><b>Num</b></td>
+<td width="33%"><b>Rank</b></td>
+<td width="15%" align="center"><b>Skill</b></td>
+<td width="15%"><b>VH</b></td>
+<td width="15%"><b>EP</b></td>
+</tr>
+<tr bgcolor="white"> 
+<td width="11%" height="17" align="center"> 
+<p>+3</p>
+</td>
+<td width="33%" height="17">Superb </td>
+<td width="15%" height="17" align="center">5 </td>
+<td width="15%" height="17" align="center">7</td>
+<td width="15%" height="17" align="center"> 
+<p>8 </p>
+</td>
+</tr>
+<tr bgcolor="lightgrey"> 
+<td width="11%" align="center">+2</td>
+<td width="33%">Great</td>
+<td width="15%" align="center">4</td>
+<td width="15%" align="center">6</td>
+<td width="15%" align="center">4</td>
+</tr>
+<tr bgcolor="white"> 
+<td width="11%" align="center">+1</td>
+<td width="33%">Good</td>
+<td width="15%" align="center">3</td>
+<td width="15%" align="center">5</td>
+<td width="15%" align="center">2</td>
+</tr>
+<tr bgcolor="lightgrey"> 
+<td width="11%" bgcolor="lightgrey" align="center">*0</td>
+<td width="33%" bgcolor="lightgrey">Fair</td>
+<td width="15%" bgcolor="lightgrey" align="center">2</td>
+<td width="15%" bgcolor="lightgrey" align="center">4</td>
+<td width="15%" bgcolor="lightgrey" align="center">1</td>
+</tr>
+<tr bgcolor="white"> 
+<td width="11%" align="center">-1</td>
+<td width="33%">Mediocre</td>
+<td width="15%" align="center">1</td>
+<td width="15%" align="center">3</td>
+<td width="15%" align="center">1</td>
+</tr>
+<tr bgcolor="lightgrey"> 
+<td width="11%" bgcolor="lightgrey" align="center">-2</td>
+<td width="33%" bgcolor="lightgrey">Poor</td>
+<td width="15%" bgcolor="lightgrey" align="center">0</td>
+<td width="15%" bgcolor="lightgrey" align="center">2</td>
+<td width="15%" bgcolor="lightgrey" align="center">1</td>
+</tr>
+<tr bgcolor="white"> 
+<td width="11%" align="center">-3</td>
+<td width="33%">Terrible</td>
+<td width="15%" align="center">-1</td>
+<td width="15%" align="center">1</td>
+<td width="15%" align="center">1</td>
+</tr>
+<tr bgcolor="lightgrey"> 
+<td colspan="2"> 
+<p><b>Trading Traits:</b><br>
+1 power = 2 gifts<br>
+1 gift = 1 fault<br>
+</p>
+</td>
+<td colspan="3"><p>1 gift = 2 attributes<br>
+1 attribute = 3 skills</p></td>
+</tr>
+</table>
+</TD>
+<TD WIDTH="197" ALIGN=left height="203"> 
+<table width="100%" border="0" height="197">
+<tr> 
+<td width="46%" height="11"><b>Character Name</b></td>
+<td width="54%" height="11">Hygulf</td>
+</tr>
+<tr> 
+<td width="46%" height="11"><b>Race</b></td>
+<td width="54%" height="11">Human</td>
+</tr>
+<tr> 
+<td width="46%" height="12"><b>Profession</b></td>
+<td width="54%" height="12">Herbalist/Adventurer</td>
+</tr>
+<tr>
+<td width="46%" height="7"><b>Mass Scale&nbsp;&nbsp;&nbsp;</b>&nbsp;0</td>
+<td width="54%" height="7"><b>Speed Scale&nbsp;&nbsp;&nbsp;&nbsp;</b>0</td>
+</tr>
+<tr> 
+<td width="46%" height="10"><b>Unspent EP</b> 0</td>
+<td width="54%" height="10"><b>Fudge Points</b> 0</td>
+</tr>
+<tr> 
+<td colspan="2" height="17"><b bgcolor="lightgrey">Description 
+and Story</b>
+<hr noshade width="90%" align="left" size="1">
+</td>
+</tr>
+<tr valign="top"> 
+<td colspan="2" height="54">Twenty-three years old, but looks 
+older due to the old hides he sometimes wears. Generally unwashed 
+and blunt. Should have been a druid.</td>
+</tr>
+</table>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR>
+<TD HEIGHT="71" ALIGN=CENTER> 
+<table width="100%" border="0" height="61" cellpadding="0" cellspacing="1">
+<tr align="center"> 
+<td height="16" width="57%"><b>Attacks</b> 
+<hr noshade width="90%" align="left" size="1">
+</td>
+<td height="16" width="43%"><b>Defenses</b> 
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr> 
+<td valign="top"  width="57%"> 
+<p>Inforanel: Elven Short Sword (OF +5)<br>
+Short Sword of Speed (OF +5) - gives Superb Speed<br>
+Short Bow (OF +3) - magic arrows are additional (OF +1)</p>
+</td>
+<td valign="top"  width="43%"> 
+<p>Red Dragon-scale Armor (DF +7)<br>
+Ring of Protection (DF +1)<br>
+Cloak of Protection (DF +1)<br>
+Dexterity (DF -1)</p>
+<p>Total DF: +8</p>
+</td>
+</tr>
+</table>
+<table width="100%" border="0" height="49">
+<tr bgcolor="white" align="center"> 
+<td rowspan="3" width="10%"><b>Wounds</b></td>
+<td width="20%" align="center"><b>1,2</b></td>
+<td width="15%" align="center"><b>3,4</b></td>
+<td width="17%" align="center"><b>5,6</b></td>
+<td width="20%" align="center"><b>7,8</b></td>
+<td width="17%" align="center"><b>9+</b></td>
+</tr>
+<tr bgcolor="lightgrey"> 
+<td width="20%" align="center">Scratch</td>
+<td width="15%" align="center">Hurt</td>
+<td width="17%" align="center">Very Hurt</td>
+<td width="20%" align="center">Incapacitated</td>
+<td width="17%" align="center">Near Death</td>
+</tr>
+<tr bgcolor="white"> 
+<td width="20%" align="center"> <img src="checkbox.gif" width="10" height="10" hspace="5"> 
+<img src="checkbox.gif" width="10" height="10" hspace="5"><img src="checkbox.gif" width="10" height="10" hspace="5"><img src="checkbox.gif" width="10" height="10" hspace="5"> 
+</td>
+<td width="15%" align="center"> <img src="checkbox.gif" width="10" height="10" hspace="5"><img src="checkbox.gif" width="10" height="10" hspace="5"></td>
+<td width="17%" align="center"> <img src="checkbox.gif" width="10" height="10" hspace="5"></td>
+<td width="20%" align="center"> <img src="checkbox.gif" width="10" height="10" hspace="5"> 
+</td>
+<td width="17%" align="center"> <img src="checkbox.gif" width="10" height="10" hspace="5"> 
+</td>
+</tr>
+</table>
+</TD>
+</TR>
+<TR valign="top"> 
+<TD ALIGN=CENTER height="236"> 
+<TABLE BORDER="0" CELLSPACING="1" CELLPADDING="0" width="100%" height="135%">
+<TR> 
+<TD WIDTH="33%" ALIGN=CENTER valign="top" height="119"> 
+<table width="100%" border="0">
+<tr align="center"> 
+<td colspan="2"><b>Attributes</b>
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr> 
+<td valign="top" width="57%" >Strength<br>
+Dexterity<br>
+Constitution<br>
+Speed<br>
+Intelligence<br>
+Willpower<br>
+Perception<br>
+<br>
+Wealth </td>
+<td width="43%" valign="top" >Great<br>
+Mediocre<br>
+Great<br>
+Fair<br>
+Good<br>
+Great<br>
+Fair<br>
+<br>
+Nobility </td>
+</tr>
+</table>
+</TD>
+<TD WIDTH="33%" ALIGN=CENTER valign="top" height="119"> 
+<table width="100%" border="0">
+<tr align="center"> 
+<td colspan="2"><b>Powers</b>
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr> 
+<td valign="top" >Psychometabolism<br>
+Psychoportation<br>
+Metapsionics </td>
+<td valign="top" >Great (VH)<br>
+Good (VH)<br>
+Fair (VH)</td>
+</tr>
+</table>
+</TD>
+<TD rowspan="2" ALIGN=CENTER valign="top" width="33%"> 
+<table width="100%" border="0">
+<tr align="center"> 
+<td colspan="2"><b>Skills</b>
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr> 
+<td valign="top"  width="62%">Short Blades<br>
+Bows<br>
+<br>
+Speak Beogarish<br>
+Speak Common<br>
+Read &amp; Write Common<br>
+Rejuvenation (H)<br>
+Meditative Focus (H)<br>
+Herbalism (H)<br>
+Healing (H)</td>
+<td valign="top"  width="38%">Good<br>
+Fair<br>
+<br>
+Fair<br>
+Fair<br>
+Mediocre<br>
+Great<br>
+Great<br>
+Mediocre<br>
+Mediocre </td>
+</tr>
+</table>
+</TD>
+</TR>
+<TR> 
+<TD ALIGN=CENTER width="129" valign="top"> 
+<table width="100%" border="0">
+<tr align="center"> 
+<td><b>Equipment</b>
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr valign="top"> 
+<td >Inforanel: intelligent Elven Short Sword (OF +3)<br>
+Short Sword of Speed (OF +3)<br>
+Gauntlets of Ogre Power (Great Strength)<br>
+Cloak of Protection (DF +1)<br>
+Ring of Protection (DF +1)<br>
+Bracers of Defense (DF +4)<br>
+Red Dragon-scale Armor (DF +7)<br>
+Ring of Free Action<br>
+Dagger (Good quality)<br>
+Hide Armor<br>
+Short Bow (OF +1)<br>
+Quiver with 50 arrows<br>
+4 Magic Arrows (OF +1)<br>
+<br>
+Scroll of Protection from Undead<br>
+3 vials of Holy Water<br>
+Jade Panther Pendant<br>
+1 - 10,000gp gem<br>
+4 - 5,000gp gems<br>
+1 - 1,000gp gem<br>
+1 - 700gp gem<br>
+Bejewelled vase/flask set, worth 6,000gp<br>
+</td>
+</tr>
+</table>
+</TD>
+<TD ALIGN=CENTER width="154" valign="top"> 
+<table width="100%" border="0">
+<tr align="center"> 
+<td height="20"><b>Gifts/Faults</b>
+<hr noshade width="90%" size="1" align="left">
+</td>
+</tr>
+<tr valign="top"> 
+<td >Fighting: Florentine Style<br>
+</td>
+</tr>
+</table>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</form>
