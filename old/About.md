@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 ## Who did this?
 
 We are a small Advanced Dungeons & DragonsTM (by [TSR, Inc.](http://www.wizards.com/dnd/)) gaming group in the San Francisco Bay Area. Our emphasis is on Role-Playing, not combat or number-crunching. Psionics play a big role in the game, and are the major powers available to both the heroes and villains. We use the rules from the Complete Psionics Handbook and the Dark Sun supplement The Will and The Way.

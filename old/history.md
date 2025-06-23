@@ -1,3 +1,7 @@
+---
+layout: page
+title: History
+---
 In the old times, Men ruled the area with personal power.
 Using their psionic abilities, the "Autarchs" could create items from thin
 air, see into peoples' minds and control whole populations by force of will.
