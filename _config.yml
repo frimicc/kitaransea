@@ -9,6 +9,7 @@ plugins:
     - jekyll-paginate
     - jekyll-seo-tag
     - jekyll-feed
+    - jekyll-remote-theme
 
 # Setup
 title:            Kitaran Sea Campaign
@@ -16,6 +17,7 @@ tagline:          'A Psionics campaign for D&D 3e'
 description:      'A Psionics campaign for D&D 3e'
 url:              https://www.frimicc.com/kitaransea
 baseurl:          /
+remote_theme:     pages-themes/architect@v0.2.0
 
 author:
   name:           'Michael Friedman'
