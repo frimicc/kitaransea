@@ -1,0 +1,13 @@
+---
+layout: default
+title: Home
+---
+<h1>Home Page</h1>
+<p>Welcome!</p>
+
+<ul>
+    <li>Home</li>
+    <li>Hello World</li>
+    <li>Test</li>
+</ul>
+    

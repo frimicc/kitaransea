@@ -1,0 +1,9 @@
+---
+layout: default
+title: Footer
+---
+<br/>
+<hr/>
+<p class="copyrightline">&copy; Copyright 2006 Michael Friedman</p>
+</body>
+</html>

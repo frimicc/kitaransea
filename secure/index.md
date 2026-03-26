@@ -1,0 +1,8 @@
+---
+layout: default
+title: Index
+---
+<HEAD>
+<TITLE>Test</TITLE>
+</HEAD>
+<P>This is a secure doc</P>

@@ -1,0 +1,7 @@
+---
+layout: default
+title: Earnsige
+---
+<P>
+<IMG SRC="earnsige.gif" ALIGN=middle WIDTH=576 HEIGHT=752>
+</P>

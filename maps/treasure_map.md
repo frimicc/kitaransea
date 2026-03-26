@@ -1,0 +1,10 @@
+---
+layout: default
+title: Treasure Map
+---
+<P>
+<IMG SRC="treasure_map.gif" ALIGN=middle WIDTH=576 HEIGHT=752>
+</P>
+<P>
+Map copyright <A HREF="http://www.tsr.com/" TARGET="_top">TSR Inc.</A> (Part of Treasure Maps Kit)
+</P>

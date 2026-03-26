@@ -1,0 +1,7 @@
+---
+layout: default
+title: Huaetburg
+---
+<P>
+<IMG SRC="huaetburg.gif" ALIGN=middle WIDTH=576 HEIGHT=752>
+</P>

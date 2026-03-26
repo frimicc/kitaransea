@@ -1,0 +1,6 @@
+---
+layout: default
+title: Test
+---
+<h1>Subdir Test</h1>
+<p>Also try the Hello World and Home pages.</p>
